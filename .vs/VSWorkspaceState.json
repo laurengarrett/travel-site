@@ -6,10 +6,9 @@
     "\\app\\assets\\styles",
     "\\app\\assets\\styles\\base",
     "\\app\\assets\\styles\\modules",
-    "\\app\\temp\\styles",
     "\\gulp",
     "\\gulp\\tasks"
   ],
-  "SelectedNode": "\\app\\assets\\styles\\base\\_global.css",
+  "SelectedNode": "\\app\\assets\\styles\\styles.css",
   "PreviewInSolutionExplorer": false
 }
